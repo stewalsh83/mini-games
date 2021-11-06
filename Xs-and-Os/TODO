@@ -1,0 +1,10 @@
+# TODO:
+#   Exception Handling
+
+#   ValueError for same input
+#   i.e - enter 1 when 1 was previously entered
+
+#   ValueError for invalid literal for int()
+#   i.e - enter char instead of int
+
+#   Back to menu after game instead of exit()
